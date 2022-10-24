@@ -7,3 +7,5 @@
 ## [Scratch Quests with Loops](https://www.youtube.com/watch?v=Ijpet4--F8M&ab_channel=PatrickTran)
 
 ## [BlueBerry Guy Week 3](https://www.youtube.com/watch?v=kMYwPPFrlns&ab_channel=PatrickTran)
+
+## [Variable Program](https://www.youtube.com/watch?v=ZOgUI8maUWI&ab_channel=PatrickTran)
