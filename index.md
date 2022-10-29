@@ -9,3 +9,5 @@
 ## [BlueBerry Guy Week 3](https://www.youtube.com/watch?v=kMYwPPFrlns&ab_channel=PatrickTran)
 
 ## [Variable Program](https://www.youtube.com/watch?v=ZOgUI8maUWI&ab_channel=PatrickTran)
+
+## [Conditional Loop](https://www.youtube.com/watch?v=UimyAgxhl-I&ab_channel=PatrickTran)
