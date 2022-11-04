@@ -11,3 +11,5 @@
 ## [Variable Program](https://www.youtube.com/watch?v=ZOgUI8maUWI&ab_channel=PatrickTran)
 
 ## [Conditional Loop](https://www.youtube.com/watch?v=UimyAgxhl-I&ab_channel=PatrickTran)
+
+## [If Else Statmenets](https://www.youtube.com/watch?v=QcYNOFM3TmM&ab_channel=PatrickTran)
