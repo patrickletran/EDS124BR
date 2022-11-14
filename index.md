@@ -13,3 +13,5 @@
 ## [Conditional Loop](https://www.youtube.com/watch?v=UimyAgxhl-I&ab_channel=PatrickTran)
 
 ## [If Else Statmenets](https://www.youtube.com/watch?v=QcYNOFM3TmM&ab_channel=PatrickTran)
+
+## [Nested Loops](https://www.youtube.com/watch?v=YIWjMvPForg&ab_channel=PatrickTran)
