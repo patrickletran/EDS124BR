@@ -15,3 +15,5 @@
 ## [If Else Statmenets](https://www.youtube.com/watch?v=QcYNOFM3TmM&ab_channel=PatrickTran)
 
 ## [Nested Loops](https://www.youtube.com/watch?v=YIWjMvPForg&ab_channel=PatrickTran)
+
+## [Compounded Conditionals](https://www.youtube.com/watch?v=sumvqjiHpw0&ab_channel=PatrickTran)
