@@ -17,3 +17,5 @@
 ## [Nested Loops](https://www.youtube.com/watch?v=YIWjMvPForg&ab_channel=PatrickTran)
 
 ## [Compounded Conditionals](https://www.youtube.com/watch?v=sumvqjiHpw0&ab_channel=PatrickTran)
+
+## [Abstraction Week 9](https://www.youtube.com/watch?v=7Sn-OKgwv6g&ab_channel=PatrickTran)
